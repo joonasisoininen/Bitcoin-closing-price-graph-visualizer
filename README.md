@@ -32,7 +32,7 @@ The animation is generated with Python's Matplotlib library and saved as an MP4 
 <h2>Project Walk-through</h2>
 <p align="center">
 Animated Graph Output: <br/>
-<a href="videos/your_video.mp4">Watch the Video</a>
+<a href="bitcoin_animation v1.mp4">Watch the Video</a>
 </p>
 
 
